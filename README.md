@@ -848,4 +848,9 @@ For support and questions:
 - **v1.1.0**: Added YOLOv8 image-based congestion detection
 - **v1.2.0**: Integrated webhook system and enhanced notifications
 - **v1.3.0**: Added voice commands and user profile management
-- **v1.4.0**: Switched to pretrained YOLOv8 model for better accuracy 
+- **v1.4.0**: Switched to pretrained YOLOv8 model for better accuracy
+
+
+## DATA TRAINING
+
+Jupyter Notebook: https://colab.research.google.com/drive/1WDIlCm4wLpwS_TyL_gEHNwMMUuSSW0gU?usp=drive_link
